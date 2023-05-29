@@ -1,6 +1,6 @@
 <h1 align="center">Relógio Digital</h1>
 <h4 align="center">Confira o Horarío em tempo real!</h4>
-<h4 align="center">Feito com HTML, CSS e Js</h4>
+<h4 align="center">Feito com HTML, CSS e JavaScript</h4>
 
  &#xa0;
 
